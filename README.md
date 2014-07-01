@@ -3,4 +3,4 @@ Java-Applications
 
 Java Applications
 
-This is a collection of various projects I have completed at Lansing Community College.  The course was CITP 190, Introduction to Java.  
+This is a collection of various projects I have completed while enrolled in CITP 190: Introduction to Java at Lansing Community College. 
